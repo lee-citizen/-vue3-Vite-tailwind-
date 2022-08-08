@@ -13,32 +13,32 @@
         <!-- tab -->
         <div class="mt-6">
         <div class="grid-cols-1 md:grid-cols-2 grid gap-20">
-            <div class="flex mx-auto mt-6">
-            <img src="@/static/img/tab1-1.png" alt="" />
+            <div class="flex mx-auto mt-6 items-center">
+            <img src="@/static/img/tab1-1.png" class="max-h-24" alt="" />
             <div class="ml-6">
                 <p class="text-2xl font-bold">课程内容</p>
                 <p class="line-through mb-2 mt-2">其他：高校不知名的讲师编号，没有任何实战价值的教材</p>
                 <p>我们：知名企业家、管理学大师联合编写的具有实现性教材</p>
             </div>
             </div>
-            <div class="flex mx-auto mt-6">
-            <img src="@/static/img/tab1-2.png" alt="" />
+            <div class="flex mx-auto mt-6 items-center">
+            <img src="@/static/img/tab1-2.png" class="max-h-24" alt="" />
             <div class="ml-6">
                 <p class="text-2xl font-bold">课程内容</p>
                 <p class="line-through mb-2 mt-2">其他：高校不知名的讲师编号，没有任何实战价值的教材</p>
                 <p>我们：知名企业家、管理学大师联合编写的具有实现性教材</p>
             </div>
             </div>
-            <div class="flex mx-auto mt-6">
-            <img src="@/static/img/tab1-3.png" alt="" />
+            <div class="flex mx-auto mt-6 items-center">
+            <img src="@/static/img/tab1-3.png" class="max-h-24" alt="" />
             <div class="ml-6">
                 <p class="text-2xl font-bold">课程内容</p>
                 <p class="line-through mb-2 mt-2">其他：高校不知名的讲师编号，没有任何实战价值的教材</p>
                 <p>我们：知名企业家、管理学大师联合编写的具有实现性教材</p>
             </div>
             </div>
-            <div class="flex mx-auto mt-6">
-            <img src="@/static/img/tab1-4.png" alt="" />
+            <div class="flex mx-auto mt-6 items-center">
+            <img src="@/static/img/tab1-4.png" class="max-h-24" alt="" />
             <div class="ml-6">
                 <p class="text-2xl font-bold">课程内容</p>
                 <p class="line-through mb-2 mt-2">其他：高校不知名的讲师编号，没有任何实战价值的教材</p>
