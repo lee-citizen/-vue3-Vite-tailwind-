@@ -53,11 +53,12 @@
         <div class="container mx-auto mt-6">
         <div class="py-12">
             <div class="grid-cols-1 md:grid-cols-2 grid gap-20">
+                
             <div class="mx-auto w-full text-center flex flex-col justify-center">
                 <p class="text-2xl font-bold">强大的学习体系</p>
                 <p class="text-lg mt-4">经过管理学大师层层把关，让您的企业突飞猛进。</p>
             </div>
-            <div class="sm:row-start-1 mx-auto w-full flex justify-center">
+            <div class=" md:row-start-auto row-start-1  mx-auto w-full flex justify-center">
                 <img class="w-2/5" src="@/static/img/tab2.png" alt="" />
             </div>
             </div>
@@ -66,7 +67,7 @@
     </div>
     <div>
         <div class="container mx-auto mt-6">
-        <div class="py-12">
+        <div class="py-20">
             <div class="grid-cols-1 md:grid-cols-2 grid gap-20">
             <div class="mx-auto w-full flex justify-center">
                 <img class="w-4/6" src="@/static/img/tab3.png" alt="" />
